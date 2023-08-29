@@ -1,0 +1,147 @@
+/*footer*/
+.plan1{
+  border: 2px solid black;
+ padding: 20px;
+ background-color: rgb(1, 39, 65);
+ border-radius: 15px;
+ text-align: center;
+ color:white;
+}
+.plan2{
+  border: 2px solid black;
+ padding: 20px;
+ background-color: rgb(161, 118, 0);
+ border-radius: 15px;
+ text-align: center;
+ color: white;
+}
+.table{
+  text-align: center;
+  border-radius: 2px;
+  color: black;
+}
+.about{
+  color: #a2a7b1;
+  font-size: 26px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+text-align: justify;
+text-indent: 100px;
+line-height: 49px;
+ }
+ .gopro{
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+.gopr{
+  margin-top: 20px;
+  font-size: 35px;
+  font-weight: bold;
+  color: white;
+}
+.last{
+  color: white;
+  margin-top: 30px;
+}
+.centr{
+  color: white;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.items{
+  color:#f9fafc6b;
+ line-height: 30px;
+ }
+/* login-1/signup*/
+
+.body,html{
+    padding: 0px;
+    margin:0px;
+    background:linear-gradient(to left ,rgb(1, 2, 53), black );
+}.border{
+    border: 5px solid transparent;
+    height: 410px;
+    width: 500px;
+    margin-top: 80px;
+    margin-left: 420px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 2px white;
+  }
+  .border1{
+    margin-top: 100px;
+    border: 1px solid transparent;
+    height: 380px;
+    width: 500px;
+    margin-left: 420px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 2px white;
+}
+.center{
+    margin-left: 180px;
+    color: white;
+    margin-top: 50px;
+}
+  .con{
+    height: 500px;
+   background:linear-gradient(to left ,rgb(1, 2, 53), black );
+  box-shadow: 0px 0px 2px white;
+  }
+  .img{
+    
+    height: 200px;
+    width: 200px;
+  }
+  .btn{
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    color: whitesmoke;
+    background-color: rgb(42, 42, 255);
+  }
+  .login1{ 
+    padding-top: 20px;
+    text-align: center;
+    margin-left: 0px;
+    width:480px;
+    height: 170px;
+   border-radius: 5px;
+  }
+  .length1{
+    width:250px;
+    height: 40px;
+    border-radius: 20px;
+  padding-left: 30px;
+    background-color: #f9fafc;
+    color: rgb(10, 10, 10);
+  }
+  .sign{
+    position: absolute;
+    margin-top: 20px ;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    color: rgb(1, 1, 59);
+    padding-left: 15px;
+    padding-top: 8px;
+    font-weight: bold;
+    border: 2px solid white;
+right: 30px;
+  }
+  .sign1{
+    position: absolute;
+    margin-top: 20px ;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    color: rgb(1, 1, 59);
+    padding-left: 24px;
+    padding-top: 8px;
+    font-weight: bold;
+    border: 2px solid white;
+right: 30px;
+  }

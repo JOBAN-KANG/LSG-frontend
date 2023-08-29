@@ -1,0 +1,55 @@
+.About{
+  display: flex;
+  flex-direction: column;
+  
+
+ 
+  .Dark-mode{
+    background-color: #232523;
+    color: #ffffff;
+    padding: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    h5{
+      font-size: 1.1rem;
+    }
+    button{
+      color: #ffffff;
+    }
+  }
+  .avt{
+   margin-right: 0px;
+    width: 1100px;
+    height: 170px;
+  }
+  .main{
+    color:black;
+    text-align: justify;
+    line-height: 45px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+  }
+  .lastt{
+    color: black;
+    margin-top: 30px;
+    margin-left: 38px;
+    text-decoration: underline;
+  }
+  .last{
+    line-height:5px;
+    color: black;
+    font-weight: bold;
+    margin-left: 38px;
+  }
+  .centr{
+    color: black;
+    margin-top: 50px;
+    text-align: center;
+  }
+  .items{
+    color:#f9fafc6b;
+   line-height: 30px;
+   }
+}
