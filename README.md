@@ -2,14 +2,6 @@
 LSG STUDIO
 </h1>
 
-<div align="center">
-
-![Home Page](https://drive.google.com/uc?id=1ayxhKGDHtysZPMqti6k4ZY072nm3I3MZ)
-
-    A music app made with the help of React.js.
-    
-</div>
-
 ## TECHNOLOGY USED
 
 * ### [React.js](https://reactjs.org/)
@@ -22,9 +14,7 @@ LSG STUDIO
    
 
 ## Attribution
-    
-[Icons](www.flaticon.com) made by Freepikfrom 
 
-[Music](https://ncs.io/music) by NCS
+[Music](LSG STUDIO) by NCS
 
-    Please make sure you fork the repository
+
