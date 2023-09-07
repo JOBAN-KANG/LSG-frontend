@@ -6,7 +6,7 @@ import Home from "../components/Pages/Home";
 // import 'bootstrap/dist/js/bootstrap';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import Login from "../components/Pages/Login";
-import Footer from "C:/final/LSG-STUDIO/src/components/Pages/Footer.js";
+// import Footer from "C:/final/LSG-STUDIO/src/components/Pages/Footer.js";
 import Signup from "C:/final/LSG-STUDIO/src/components/Pages/Signup.js";
 import Userlogin from "C:/final/LSG-STUDIO/src/components/Pages/Userlogin.js";
 import {ThemeContext, themes} from "../api/Theme";
@@ -42,7 +42,7 @@ const App = () => {
                         <Route path="/home" component={Home}/>
                         <Route path="/login" component={Userlogin}/>
                         <Route path="/signup" component={Signup}/>
-                        <Route path="/footer" component={Footer}/>
+                        {/* <Route path="/footer" component={Footer}/> */}
                     </Switch>
                 </Router>
             </>

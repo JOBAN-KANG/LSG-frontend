@@ -6,7 +6,7 @@ import DropDownLanguageList from "./DropDownLanguageList";
 import SearchBar from "./SearchBar";
 import Brand from "./Brand";
 //import DropDownProfile from "./DropDownProfile";
-import {Avatar, Button} from "@material-ui/core";
+import {Button} from "@material-ui/core";
 import {ThemeContext} from "../../api/Theme";
 
 function Navigation() {
@@ -21,11 +21,11 @@ function Navigation() {
         setLangList(!isLanguageListOpen);
     }
 
-    function handleOpenProfile() {
-        if (isLanguageListOpen === true)
-            setLangList(!isLanguageListOpen);
-        setOpenProfile(!isOpenProfile);
-    }
+    // function handleOpenProfile() {
+    //     if (isLanguageListOpen === true)
+    //         setLangList(!isLanguageListOpen);
+    //     setOpenProfile(!isOpenProfile);
+    // }
     const useStyle = useContext(ThemeContext);
     return (
         <nav style={useStyle.component}>
